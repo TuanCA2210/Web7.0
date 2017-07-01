@@ -1,0 +1,6 @@
+[0627/214218.868:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: The system cannot find the path specified. (0x3)
+[0627/214219.079:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0627/214219.079:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/155432.273:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/155432.317:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/155432.321:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Stanper\Reports\Dump: The system cannot find the path specified. (0x3)
